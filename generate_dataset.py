@@ -16,7 +16,7 @@ from openai import OpenAI
 # ==============================
 # Configuration & Logging Setup
 # ==============================
-API_KEY = "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"
+API_KEY = "xxxxxxxxxxxxxx"
 BASE_URL = "https://openrouter.ai/api/v1"
 MODEL_NAME = "google/gemini-2.0-flash-exp:free"
 DEFAULT_TEMPERATURE = 0.3
